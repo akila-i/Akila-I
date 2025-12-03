@@ -6,6 +6,11 @@
     Welcome to my profile
 </h3>
 
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
+</div>
+
 <!-- Social icons section -->
 <p align="center">
     <!-- LinkedIn -->
@@ -24,7 +29,7 @@
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <!-- StackOverFlow -->
-    <a href="https://stackoverflow.com/users/16899162/akila-gamage">
+    <a href="https://stackoverflow.com/users/16899162/akila-induranga">
         <img width="32px" alt="StackOverFlow" title="StackOverflow" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"/>
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -38,9 +43,10 @@
 </h3>
 
 <p align="center">
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=blue"/>&nbsp;
+    <img alt="Go" src="https://img.shields.io/badge/Go-14354C.svg?logo=go&logoColor=aqua"/>&nbsp;
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"/>&nbsp;
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>&nbsp;
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=yellow"/>&nbsp;
     <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white"/>&nbsp;
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white"/>&nbsp;
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"/>&nbsp;
@@ -54,17 +60,12 @@
     <img alt="Azure" src="https://img.shields.io/badge/Azure-007FFF?logo=azuredevops"/>&nbsp;
     <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white"/>&nbsp;
     <img alt="k8s" src="https://img.shields.io/badge/Kubernetes-3970e4?logo=kubernetes&logoColor=white"/>&nbsp;
+    <img alt="opensearch" src="https://img.shields.io/badge/OpenSearch-005eb8?logo=opensearch&logoColor=2cd5c4"/>&nbsp;
+    <img alt="fluent-bit" src="https://img.shields.io/badge/FluentBit-FFFFFF?logo=fluent-bit&logoColor=00B8BB"/>&nbsp;
+    <img alt="prometheus" src="https://img.shields.io/badge/Prometheus-3c3c3b?logo=prometheus&logoColor=fbba00"/>&nbsp;
     <img alt="linux" src="https://img.shields.io/badge/Linux-ffcc33?logo=linux&logoColor=black"/>&nbsp;
     <img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?logo=solidity&logoColor=black"/>&nbsp;
 </p>
-
-
-
----
-<div align="center" style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akila-i&theme=merko"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akila-i&theme=merko"/>
-</div>
 
 ---
 
