@@ -1,11 +1,11 @@
-<h1 align="center">
-    Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Akila Induranga
-</h1>
+<div align="center">
 
-<h3 align="center">
-    Welcome to my profile
-</h3>
+# Akila Induranga 
 
+#### Software Engineer | Observability, Kubernetes, Platform Engineering
+</div>
+
+---
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
@@ -38,80 +38,55 @@
 
 ---
 
-<h3 align="center">
-    Tools in hand 🛠️
-</h3>
-
-<p align="center">
-    <img alt="Go" src="https://img.shields.io/badge/Go-14354C.svg?logo=go&logoColor=aqua"/>&nbsp;
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"/>&nbsp;
-    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>&nbsp;
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=yellow"/>&nbsp;
-    <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white"/>&nbsp;
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white"/>&nbsp;
-    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"/>&nbsp;
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>&nbsp;
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>&nbsp;
-    <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D"/>&nbsp;
-    <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-800000.svg?logo=java&logoColor=white"/>&nbsp;
-    <img alt="AndroidStudio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"/>&nbsp;
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"/>&nbsp;
-    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"/>&nbsp;
-    <img alt="Azure" src="https://img.shields.io/badge/Azure-007FFF?logo=azuredevops"/>&nbsp;
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white"/>&nbsp;
-    <img alt="k8s" src="https://img.shields.io/badge/Kubernetes-3970e4?logo=kubernetes&logoColor=white"/>&nbsp;
-    <img alt="opensearch" src="https://img.shields.io/badge/OpenSearch-005eb8?logo=opensearch&logoColor=2cd5c4"/>&nbsp;
-    <img alt="fluent-bit" src="https://img.shields.io/badge/FluentBit-FFFFFF?logo=fluent-bit&logoColor=00B8BB"/>&nbsp;
-    <img alt="prometheus" src="https://img.shields.io/badge/Prometheus-3c3c3b?logo=prometheus&logoColor=fbba00"/>&nbsp;
-    <img alt="linux" src="https://img.shields.io/badge/Linux-ffcc33?logo=linux&logoColor=black"/>&nbsp;
-    <img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?logo=solidity&logoColor=black"/>&nbsp;
-</p>
+<!-- DevStats card (left) + tech badges (right) -->
+<table>
+  <tr>
+    <td width="45%" valign="middle">
+      <a href="https://github.com/tico88612/devstats-card">
+        <img width="100%" src="https://devstats.me/?username=akila-i" alt="DevStats Card"/>
+      </a>
+    </td>
+    <td width="55%" valign="middle" align="center">
+      <img alt="Go" src="https://img.shields.io/badge/Go-14354C.svg?logo=go&logoColor=aqua"/>
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"/>
+      <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>
+      <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=yellow"/>
+      <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white"/>
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white"/>
+      <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"/>
+      <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
+      <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
+      <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D"/>
+      <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-800000.svg?logo=java&logoColor=white"/>
+      <img alt="AndroidStudio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"/>
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"/>
+      <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"/>
+      <img alt="Azure" src="https://img.shields.io/badge/Azure-007FFF?logo=azuredevops"/>
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white"/>
+      <img alt="k8s" src="https://img.shields.io/badge/Kubernetes-3970e4?logo=kubernetes&logoColor=white"/>
+      <img alt="opensearch" src="https://img.shields.io/badge/OpenSearch-005eb8?logo=opensearch&logoColor=2cd5c4"/>
+      <img alt="fluent-bit" src="https://img.shields.io/badge/FluentBit-FFFFFF?logo=fluent-bit&logoColor=00B8BB"/>
+      <img alt="prometheus" src="https://img.shields.io/badge/Prometheus-3c3c3b?logo=prometheus&logoColor=fbba00"/>
+      <img alt="linux" src="https://img.shields.io/badge/Linux-ffcc33?logo=linux&logoColor=black"/>
+      <img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?logo=solidity&logoColor=black"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Projects
+## Experience
+
+<img align="right" src="https://img.shields.io/badge/Kubernetes-3970e4?logo=kubernetes&logoColor=white" />
+
+- https://github.com/akila-i/openchoreo \
+Maintainer of OpenChoreo\
+📅 2025 - Present\
+📍 OpenChoreo - Internal Developer Platform for Kubernetes (CNCF sandbox project)
 
 <img align="right" src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" />
 
-
-- 👨‍💻 <a href="https://github.com/Akila-I/gsoc-2023">Adding a custom text color picker for Kolibri EPUB renderer</a>\
+- https://github.com/akila-i/gsoc-2023 \
+Adding a custom text color picker for Kolibri EPUB renderer\
 📅 2023\
 📍 Google Summer of Code Individual Project
-
-
-<img align="right" src="https://img.shields.io/badge/Solidity-e6e6e6?logo=solidity&logoColor=black" />
-<img align="right" src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=Ethereum&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
-
-
-- 👨‍💻 <a href="https://github.com/IdentityBlock">Person Verification Digital Platform (iBlock)</a>\
-📅 2022\
-📍 Semester 5 Software Engineering Group Project
-
-
-<img align="right" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" />
-
-
-- 👨‍💻 <a href="https://github.com/Akila-I/world-wide-news">News Website (World Wide News)</a>\
-📅 2022\
-📍 Semester 4 Software Engineering Group Project
-
-
-<img align="right" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-
-
-- 👨‍💻 <a href="https://github.com/Akila-I/HRM">Human Resource Management System</a>\
-📅 2022\
-📍 Semester 4 Database Management Systems Group Project
-
-
-<img align="right" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />
-<img align="right" src="https://img.shields.io/badge/OpenCV-27338e?logo=OpenCV&logoColor=white" />
-
-
-- 👨‍💻 <a href="https://github.com/Akila-I/DriverAssistanceSystem-33kdp">Driver Assistant System</a>\
-📅 2022\
-📍 Semester 4 Programming Challenge Group Project
-
